@@ -62,16 +62,6 @@
 
 # 📊 GitHub Stats
 
-<style>
-img {
-  transition: transform 0.2s ease, filter 0.2s ease;
-}
-img:hover {
-  transform: scale(1.05);
-  filter: drop-shadow(0 0 8px rgba(0, 200, 255, 0.4));
-}
-</style>
-
 ![](https://github-readme-stats.vercel.app/api?username=MohamedBen21&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MohamedBen21&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBen21&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
