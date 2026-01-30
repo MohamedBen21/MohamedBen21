@@ -28,16 +28,6 @@
 
 # 💻 My Tech Stack
 
-<style>
-.tech-icons img {
-  transition: transform 0.2s ease, filter 0.2s ease;
-}
-.tech-icons img:hover {
-  transform: scale(1.08);
-  filter: drop-shadow(0 0 6px rgba(0, 200, 255, 0.6));
-}
-</style>
-
 ### 👨‍💻 Languages
 <p align="center" class="tech-icons">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart&perline=6" />
@@ -62,8 +52,10 @@
 
 # 📊 GitHub Stats
 
+<p align="center" >
 ![](https://github-readme-stats.vercel.app/api?username=MohamedBen21&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MohamedBen21&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBen21&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
 ---
