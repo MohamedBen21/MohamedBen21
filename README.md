@@ -52,8 +52,21 @@
 
 # 📊 GitHub Stats
 
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=MohamedBen21&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MohamedBen21&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBen21&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
 ---
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedBen21/MohamedBen21/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedBen21/MohamedBen21/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohamedBen21/MohamedBen21/output/github-snake.svg">
+</picture>
+
+</div>
